@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="[https://c.tenor.com/P5DB2iGAecsAAAAj/peach-cat.gif](https://user-images.githubusercontent.com/88565257/172953264-f7e2d1c9-4d8e-490c-b91b-af00e9125620.gif)" width="height: 39; position: center;">
-  <br>hi, there! 🥸 im gustavo!
+  <br>hi, there! 🥸 im gustavo! <img src="![DjMixMykeeDanceGIF (2)](https://user-images.githubusercontent.com/88565257/172966109-39d855c2-4251-4791-9f77-a8a833061d80.gif)
+" width=20% height=20%>
   <h4 align="center">
   designer and developer️
   </h4>

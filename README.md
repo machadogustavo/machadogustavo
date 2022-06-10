@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://tenor.com/view/hi-gif-19297494" width="40" height="40" />
+  <img src="https://media.giphy.com/media/ZrlYxeVZ0zqkU/giphy.gif" width="100" height="100" />
   <br>hi, there! 🥸 im gustavo!
   <h4 align="center">
   designer and developer️

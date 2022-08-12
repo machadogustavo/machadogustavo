@@ -12,7 +12,6 @@ body {
 
 .container {
     width: 500px;
-    height: 500px;
     /*top,right,bottom,left*/
     margin: 50px 10px 10px 10px;
     border: #050505 1px dashed;
@@ -89,6 +88,9 @@ section h1{
     border-radius: 50%;
 }
 
-.link-box:hover {
-    background-color: rgb(221, 221, 221);
+.link-box a:hover {
+    background-color: black;
+    color: whitesmoke;
 }
+
+

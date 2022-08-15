@@ -153,3 +153,25 @@ section {
     font-weight: 700;
     font-size: 2.5rem;
 }
+
+.our-products .product {
+    background: radial-gradient(var(--clr-inner, limegreen), var(--clrouter, purple));
+    padding: 3em;
+    border-radius: 1em;
+    margin-bottom: 3em;
+    text-align: center;
+}   
+
+.our-products .product_title{
+    font-size: 4rem;
+    line-height: 1.1;
+    color: #fff;
+    text-shadow: 0 0 .2em rgba(#000, .2);
+
+}
+
+.shoe-red {
+    --clr-inner: red;
+    --clr-inner: orange;
+
+}

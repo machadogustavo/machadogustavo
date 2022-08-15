@@ -1,0 +1,241 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+    line-height: 1.6;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+
+section {
+    padding: 7em 0;
+}
+
+.container {
+    width: 85%;
+    max-width: 65em;
+    margin: 0 auto;
+}
+
+.split {
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.split>* {
+    flex-basis: 30%;
+    min-width: 15em;
+
+}
+
+.spacing>*+* {
+    margin-top: var(--spacer, 2rem);
+
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    padding: .5em 1.25em;
+    background-color: var(--clr-accent, blue);
+    color: var(--clr-text, wheat);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1.125rem;
+    border-radius: .25em;
+    transition: transform 250ms ease-in-out, opacity 175ms linear;
+}
+
+.btn:hover,
+.btn:focus {
+    transform: scale(1.1);
+    opacity: .7;
+}
+
+.primary-title {
+    font-size: 4rem;
+    font-size: clamp(3rem, calc(5vw + 1rem), 4.5rem);
+    line-height: 1;
+    text-transform: uppercase;
+    color: white;
+}
+
+.hero p {
+    color: whitesmoke;
+}
+
+.section-title {
+    text-align: center;
+    font-size: clamp(2.5rem, calc(5vw + 1rem), 4rem);
+    line-height: 1;
+    color: #17353d;
+    margin-bottom: 5rem;
+}
+
+.hero {
+    color: wheat;
+    text-align: center;
+    padding: 15em 0;
+    background-color: #222;
+    background-image: url(./img/shoe-3.png);
+    background-blend-mode: multiply;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+.featured {
+    background: #eee;
+}
+
+.featured_item {
+    display: block;
+    position: relative;
+    transform: scale(.85);
+    transition: transform 250ms ease-in-out;
+    text-decoration: none;
+    color: #333;
+    text-align: center;
+    line-height: 1.2;
+}
+
+.featured_item span {
+    display: block;
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+.featured_item:hover,
+.featured_item:focus {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+
+.featured_details:hover,
+.featured_details:focus {
+    opacity: 1;
+    text-shadow: 0 0 2em rgba(#fff, 1);
+}
+
+
+.featured_item::after {
+    content: '';
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    padding: 75% 75% 0 0;
+    border-radius: 50%;
+    background: #2193b0;
+    z-index: -1;
+}
+
+
+.featured_details {
+    opacity: 0;
+    transition: opacity 250ms linear;
+}
+
+.featured_details span {
+    display: block;
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+.our-products .product {
+    background: radial-gradient(var(--clr-inner, limegreen), var(--clr-outer, purple));
+    padding: 3em;
+    border-radius: 1em;
+    margin-bottom: 3em;
+    text-align: center;
+}
+
+.our-products .product_title {
+    text-transform: uppercase;
+    font-size: clamp(3rem, calc(5vw + 1rem), 5.5rem);
+    line-height: 1.1;
+    color: #fff;
+    text-shadow: 0 0 .2em rgba(#000, .2);
+
+}
+
+.our-products .product_img {
+    margin: -5em 0 0 0;
+}
+
+
+
+
+.hero {
+    --clr-accent: #faa700;
+    --clr-text: white;
+}
+
+.shoe-red {
+    --clr-inner: #faa700;
+    --clr-outer: #e48d00;
+    --clr-accent: #a1173c;
+    --clr-text: white;
+}
+
+.shoe-white {
+    --clr-inner: #fce4b3;
+    --clr-outer: #eac886;
+    --clr-accent: #2f4858;
+    --clr-text: white;
+}
+
+.shoe-blue {
+    --clr-inner: #6dd5ed;
+    --clr-outer: #2193b0;
+    --clr-accent: #008951;
+    --clr-text: white;
+}
+
+@media (min-width: 45em) {
+
+    .our-products .product_img {
+        float: right;
+        width: 65%;
+        shape-outside: url(./img/shoe-1.png);
+        shape-margin: 1em;
+        margin: 0 -5em 0 0;
+    }
+
+    .our-products {
+        text-align: left;
+        margin-bottom: 9em;
+    }
+
+    .our-products .product_title {
+        margin: 0;
+    }
+
+    .shoe-left .product_img {
+        float: left;
+        shape-outside: url(./img/shoe-2.png);
+        margin: 0 0 0 -5em;
+        shape-margin: 2em;
+    }
+
+    .shoe-blue{
+        shape-outside: url(./img/shoe-3.png);
+    }
+}

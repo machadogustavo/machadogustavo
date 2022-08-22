@@ -129,8 +129,10 @@ section {
     transform: scale(1);
 }
 
-.featured_details:hover,
-.featured_details:focus {
+
+
+.featured_item:hover > .featured_details,
+.featured_item:focus > .featured_details {
     opacity: 1;
     text-shadow: 0 0 2em rgba(#fff, 1);
 }
@@ -149,6 +151,7 @@ section {
 
 
 .featured_details {
+    margin-top: 20px;
     opacity: 0;
     transition: opacity 250ms linear;
 }

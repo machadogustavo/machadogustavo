@@ -54,7 +54,7 @@ section h1{
 }
 
 .img-profile-box h2 {
-    font-family: ubuntu;
+    font-family: 'ubuntu','verdana';
     font-weight: 300;
     font-size: 20px;
     color: #050505;

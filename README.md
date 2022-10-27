@@ -7,6 +7,7 @@
     
     
     - Front-End,GameDev, UI Design and Design
+    - Técnico Informática IFPA
     - Graduando em S.I
     - HTML,CSS,JavaScript, C#...
 

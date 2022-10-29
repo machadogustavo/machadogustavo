@@ -6,10 +6,10 @@
 <h1>Gustavo Machado</h1>
     
     
-    - Front-End,GameDev, UI Design
-    - Técnico Informática IFPA
-    - Graduando em S.I
-    - HTML,CSS,JavaScript, C#...
+    - Front-End, GameDev, UI Design;
+    - Técnico Informática IFPA;
+    - Graduando em S.I;
+    - HTML, CSS, JavaScript, C#.
 
 <p align="center">
    <a href="https://www.linkedin.com/in/paixaogustavo/">

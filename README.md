@@ -6,7 +6,7 @@
 <h1>Gustavo Machado</h1>
     
     
-    - Front-End,GameDev, UI Design and Design
+    - Front-End,GameDev, UI Design
     - Técnico Informática IFPA
     - Graduando em S.I
     - HTML,CSS,JavaScript, C#...

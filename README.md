@@ -10,6 +10,18 @@
     - Técnico Informática IFPA;
     - Graduando em S.I;
     - HTML, CSS, JavaScript, C#.
+    
+## Tecnologias e Linguagens
+<p align="justify"><a href="https://bermeo.dev">
+ <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
+ <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+ <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
+ <img alt="C#" src="https://img.shields.io/badge/C%23-%230d1117?style=for-the-badge&logo=c-sharp"/> 
+ <img alt="Unity" src="https://img.shields.io/badge/unity-%230d1117.svg?style=for-the-badge&logo=unity"/>
+</p>    
+
+
+## Rede Social
 
 <p align="center">
    <a href="https://www.linkedin.com/in/paixaogustavo/">

@@ -1,7 +1,6 @@
 
 <!--"Hero"-->
 
-
 <header style="display: flex;
   align-content: center;
   align-items: center;
@@ -16,8 +15,6 @@
 <p id="subtitle" style="margin-top: -15px; text-align: center;
   font-size: 15px;"><u>designer and developer️</u></p>
 
-
-
 <section style="text-align: justify;">
 
     * Front-End, Back-end, GameDev, UI Design;
@@ -27,13 +24,9 @@
 </section>
 </div>
 
-
  <img src="https://media.giphy.com/media/KBvp44hV75OEvJnzIT/giphy.gif" alt="Gif" width="220" height="220"/>
 
-
-
 </header>
-
 
 <main>
 <h1 style="font-size: 32px;
@@ -41,7 +34,6 @@
 <!--"Languages, Frameworks and Tools:"-->
 <h2 style="font-size: 12px;
   margin-top: 6px;">Linguagens</h2>
-
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,7 +46,6 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 <h2 style="font-size: 12px;
   margin-top: 6px;">Ferramentas</h2>
@@ -95,7 +86,7 @@
 <p><strong>Javascript, Python, C#, SQL</strong>
 
 Resoluções de alguns desafios do
-[Beecrowd](https://www.beecrowd.com.br/judge/pt/categories) 
+[Beecrowd](https://www.beecrowd.com.br/judge/pt/categories)
 para Web I e estudo.</p>
 </div>
 
@@ -151,11 +142,9 @@ Desenvolvimento de um jogo na Godot.<br>
 [![GitHub](https://img.shields.io/badge/-Andre%20Joas-191919?style=flat-square&labelColor=191919&logo=github&logoColor=white&link=link)](https://github.com/AndreJoas)
 [![GitHub](https://img.shields.io/badge/-Wemelly%20Nunes-191919?style=flat-square&labelColor=191919&logo=github&logoColor=white&link=link)](https://github.com/wemy-nunes)
 
-
 <br>
 </div>
 </td>
-
 
 <td width="50%" colspan="0" align="center" style="border: 1px solid black;">
 <h3 align="center" style="margin: 12px 0 16px 0;
@@ -183,7 +172,6 @@ Projeto Final Disciplina Web II - API Print Storage<br>
 </div>
 </td>
 
-
 </tr>
 </table>
 </div>
@@ -201,7 +189,6 @@ Projeto Final Disciplina Web II - API Print Storage<br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=machadogustavo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadogustavo&layout=compact&langs_count=7&theme=dark"/>
 
-
 </div>
 
 <!--"Social Media | Contact"-->
@@ -215,10 +202,6 @@ Projeto Final Disciplina Web II - API Print Storage<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Machado-191919?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paixaogustavo/)](https://www.linkedin.com/in/paixaogustavo/) [![Gmail Badge](https://img.shields.io/badge/-contact.gustavomachado@gmail.com-191919?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herickherick47@gmail.com)](mailto:contact.gustavomachado@gmail.com) [![GitHub](https://img.shields.io/badge/-Portfólio%20Pages-191919?style=flat-square&labelColor=191919&logo=github&logoColor=white&link=link)](https://machadogustavo.github.io/machadogustavo/)
 
-
 </footer>
 
 </div>
-
-
-

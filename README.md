@@ -1,29 +1,4 @@
 
-<!--"Hero"-->
-
-<header style="display: flex;
-  align-content: center;
-  align-items: center;
-  justify-content: center;
-  gap: 20px;
-  margin-bottom: 20px;">
-
-<div>
-
-<h6 id="title" style="text-align: center; font-size: 32px;
-  font-weight: bold;">Gustavo Machado</h6>
-<p id="subtitle" style="margin-top: -15px; text-align: center;
-  font-size: 15px;"><u>designer and developer️</u></p>
-
-<section style="text-align: justify;">
-
-    * Front-End, Back-end, GameDev, UI Design;
-    * Técnico Informática IFPA;
-    * S.I UNIFESSPA;
-
-</section>
-</div>
-
  <img src="https://media.giphy.com/media/KBvp44hV75OEvJnzIT/giphy.gif" alt="Gif" width="220" height="220"/>
 
 </header>

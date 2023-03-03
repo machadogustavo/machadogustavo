@@ -105,9 +105,12 @@ para Web I e estudo.</p>
 <p>
 <a href="https://github.com/machadogustavo/WebIProjetoFinal-TSE">
 <img src="https://img.shields.io/badge/Repositório-252525?style=for-the-badge&logo=github&logoColor=white">
-
-<img src="https://img.shields.io/badge/Status-finish-93FF00">
 </a>
+<a href="https://machadogustavo.github.io/WebIProjetoFinal-TSE/">
+<img src="https://img.shields.io/badge/GitHub Pages-252525?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<img src="https://img.shields.io/badge/Status-finish-93FF00">
+
 </a>
 </p>
 <p><strong>HTML, CSS, JavaScript, Figma</strong>

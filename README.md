@@ -1,12 +1,87 @@
+<style>
+
+#title {
+  font-size: 32px;
+  font-weight: bold;
+}
+section {
+  text-align: justify;
+}
+main h2 {
+  font-size: 12px;
+  margin-top: 6px;
+}
+main h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#projects {
+  margin-top: 24px;
+}
+
+#projects h1 {
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+#projects h3 {
+  margin: 12px 0 16px 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+#projects img {
+  margin-bottom: 12px;
+}
+
+#github {
+  margin: 12px;
+  gap: 24px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+td {
+  border: 1px solid black;
+}
+
+#github h1 {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+footer h2 {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+</style>
+
 <!--"Hero"-->
 
 
-<header>
+<header style="display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin-bottom: 20px;">
 
 <div>
 
-<h6 id="title">Gustavo Machado</h6>
-<p id="subtitle"><u>designer and developer️</u></p>
+<h6 id="title" style="text-align: center;">Gustavo Machado</h6>
+<p id="subtitle" style="margin-top: -15px; text-align: center;
+  font-size: 15px;"><u>designer and developer️</u></p>
 
 
 

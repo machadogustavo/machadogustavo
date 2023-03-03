@@ -1,5 +1,34 @@
+<!--"Hero"-->
 
- <img src="https://media.giphy.com/media/KBvp44hV75OEvJnzIT/giphy.gif" alt="Gif" width="220" height="220"/>
+
+<div align="center">
+<img src="https://media.giphy.com/media/KBvp44hV75OEvJnzIT/giphy.gif" alt="Gif" width="150" height="150"/>
+</div>
+
+<header align="center">
+
+<div align="left">
+
+<div align="center">
+
+## Gustavo Machado
+
+<h6>designer and developer️</h6>
+
+```
+
+Front-End, Back-end, GameDev, UI Design;
+Técnico Informática IFPA;
+S.I UNIFESSPA;
+
+```
+
+<div>
+
+</div>
+
+
+
 
 </header>
 
@@ -7,23 +36,23 @@
 <h1 style="font-size: 32px;
   font-weight: bold;">Hard-Skills</h1>
 <!--"Languages, Frameworks and Tools:"-->
-<h2 style="font-size: 12px;
-  margin-top: 6px;">Linguagens</h2>
+<h4 style="font-size: 12px;
+  margin-top: 6px;">Linguagens</h4>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<h2 style="font-size: 12px;
-  margin-top: 6px;">Frameworks & Bibliotecas</h2>
+<h4 style="font-size: 12px;
+  margin-top: 6px;">Frameworks & Bibliotecas</h4>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h2 style="font-size: 12px;
-  margin-top: 6px;">Ferramentas</h2>
+<h4 style="font-size: 12px;
+  margin-top: 6px;">Ferramentas</h4>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -33,7 +62,7 @@
 
 <!--"Projects"-->
 <!--"<details>"-->
-<div id="projects" style="margin-top: 24px;">
+<div id="projects" style="margin-top: 24px;" align="center">
 
 <h1 style="text-align: center;
   font-size: 32px;

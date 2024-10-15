@@ -201,8 +201,7 @@ Projeto Final Disciplina Web II - API Print Storage<br>
   font-weight: bold;
   margin-bottom: 12px;">Contact me :)</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Machado-191919?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paixaogustavo/)](https://www.linkedin.com/in/paixaogustavo/) [![Gmail Badge](https://img.shields.io/badge/-contact.gustavomachado@gmail.com-191919?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herickherick47@gmail.com)](mailto:contact.gustavomachado@gmail.com) [![GitHub](https://img.shields.io/badge/-Portfólio%20Pages-191919?style=flat-square&labelColor=191919&logo=github&logoColor=white&link=link)](https://machadogustavo.github.io/machadogustavo/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Machado-191919?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paixaogustavo/)](https://www.linkedin.com/in/paixaogustavo/) [![Gmail Badge](https://img.shields.io/badge/-contact.gustavomachado@gmail.com-191919?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herickherick47@gmail.com)](mailto:contact.gustavomachado@gmail.com)
 </footer>
 
 </div>
